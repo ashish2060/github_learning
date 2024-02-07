@@ -1,4 +1,4 @@
 # github_learning
 this is my first github repository
 <br>
-Author -- Shradha
+Author -- Shradha (apna college)
